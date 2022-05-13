@@ -1,0 +1,18 @@
+Optie 1:
+Auteur (author): Williams
+Tijdschrift (journal): Science
+Type artikel: Free full text
+Woord in de titel (title): DNA
+
+Optie 2:
+Auteur (author): Zhang
+Tijdschrift (journal): Cell
+Type artikel: Free full text
+Woord in de titel (title): protein
+
+Optie 3:
+Auteur (author): Zhang
+Tijdschrift (journal): Biochemistry
+Type artikel: Free full text
+Woord in de titel (title): translation
+

@@ -1,0 +1,9 @@
+Download de referentie mRNA sequentie en de referentie eiwit sequentie van het gen met het gensymbool CNST van de mens (Homo sapiens). 
+Geef de eerste 5 nucleotiden en de eerste 5 aminozuren gescheiden door een streepje.
+Let op: Indien er meerdere isoformen aanwezig zijn kies je de isoform met het laagste cijfer of de eerste letter.
+Dus isoform 1 of isoform A.
+Voorbeeld antwoord:
+ATCGA-MVSKG
+
+Indien er zich problemen voordoen (in zeer zeldzame gevallen is er geen mRNA voorhanden) dan mag je optie 2 gebruiken.
+Gebruik dan gensymbool: HADHA

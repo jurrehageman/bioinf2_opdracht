@@ -1,0 +1,18 @@
+Optie 1:
+Auteur (author): Wang
+Tijdschrift (journal): Nature
+Type artikel: Free full text
+Woord in de titel (title): translation
+
+Optie 2:
+Auteur (author): Williams
+Tijdschrift (journal): Cell
+Type artikel: Free full text
+Woord in de titel (title): cell
+
+Optie 3:
+Auteur (author): Zhang
+Tijdschrift (journal): Biochemistry
+Type artikel: Free full text
+Woord in de titel (title): antibody
+

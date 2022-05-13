@@ -1,0 +1,18 @@
+Optie 1:
+Auteur (author): Zhang
+Tijdschrift (journal): Nature
+Type artikel: Free full text
+Woord in de titel (title): transcription
+
+Optie 2:
+Auteur (author): Williams
+Tijdschrift (journal): Science
+Type artikel: Free full text
+Woord in de titel (title): transcription
+
+Optie 3:
+Auteur (author): Williams
+Tijdschrift (journal): The Journal of Biological Chemistry
+Type artikel: Free full text
+Woord in de titel (title): cell
+

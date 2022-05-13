@@ -1,0 +1,16 @@
+In de bijbehorende files vind je steeds een gemuteerde versie van het BRCA1 cds.
+De entry nummers voor mRNA en eiwit zijn respectievelijk:
+NM_007294.4 en NP_009225.1_1
+Er is slechts 1 mutatie aanwezig.
+Map de mutatie op nucleotide en aminozuur niveau.
+
+Voorbeeld van fictieve antwoorden:
+Geef de mutatie als volgt weer op nucleotide niveau:
+NM_007294.4:r.76a>c (hierbij is op positie 76 een a naar c gemuteerd)
+
+Geef de mutatie als volgt weer op eiwit niveau:
+NP_009225.1_1:p.(K24G) (hierbij is een lysine op positie 24 gemuteerd naar een glycine)
+
+Je antwoord wordt dan:
+NM_007294.4:r.72a>c
+NP_009225.1_1:p.(K24G)

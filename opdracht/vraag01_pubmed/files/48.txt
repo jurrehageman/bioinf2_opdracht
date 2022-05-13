@@ -1,0 +1,18 @@
+Optie 1:
+Auteur (author): Wang
+Tijdschrift (journal): Nature
+Type artikel: Free full text
+Woord in de titel (title): RNA
+
+Optie 2:
+Auteur (author): Wang
+Tijdschrift (journal): The Journal of Biological Chemistry
+Type artikel: Free full text
+Woord in de titel (title): translation
+
+Optie 3:
+Auteur (author): Wang
+Tijdschrift (journal): Biochemistry
+Type artikel: Free full text
+Woord in de titel (title): RNA
+

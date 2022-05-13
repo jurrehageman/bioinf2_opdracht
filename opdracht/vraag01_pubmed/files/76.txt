@@ -1,0 +1,18 @@
+Optie 1:
+Auteur (author): Williams
+Tijdschrift (journal): Nature
+Type artikel: Free full text
+Woord in de titel (title): protein
+
+Optie 2:
+Auteur (author): Wang
+Tijdschrift (journal): Biochemistry
+Type artikel: Free full text
+Woord in de titel (title): RNA
+
+Optie 3:
+Auteur (author): Williams
+Tijdschrift (journal): Biochemistry
+Type artikel: Free full text
+Woord in de titel (title): cell
+

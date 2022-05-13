@@ -1,0 +1,1 @@
+BamHI,EcoRI,HindIII,KpnI,PstI,XbaI,XmaI

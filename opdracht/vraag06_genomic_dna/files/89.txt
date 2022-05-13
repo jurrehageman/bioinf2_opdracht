@@ -1,0 +1,11 @@
+Optie 1
+Species: Homo sapiens
+Chromosome: Y
+Position: 100055-100075
+Complement strand: Yes
+
+Optie 2: Alleen gebruiken als optie 1 niet lukt!
+Species: Homo sapiens
+Chromosome: 15
+Position: 175832-175852
+Complement strand: Yes

@@ -1,0 +1,11 @@
+Optie 1
+Species: Homo sapiens
+Chromosome: 4
+Position: 136622-136642
+Complement strand: Yes
+
+Optie 2: Alleen gebruiken als optie 1 niet lukt!
+Species: Homo sapiens
+Chromosome: 16
+Position: 104136-104156
+Complement strand: Yes
